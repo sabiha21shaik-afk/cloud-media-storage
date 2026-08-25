@@ -1,0 +1,27 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Flask / SQLite
+*.db
+*.sqlite
+*.sqlite3
+
+# Uploaded files
+backend/uploads/*
+
+# Test files
+test.txt
+downloaded_test.txt
+delete_test.txt
+
+# React
+frontend/node_modules/
+frontend/dist/
+
+# Environment files
+.env
+
+# VS Code
+.vscode/
